@@ -7,7 +7,7 @@ plugins {
     id("org.springdoc.openapi-gradle-plugin") version "1.6.0"
 
     kotlin("jvm") version "1.6.21"
-    kotlin("plugin.spring") version "1.6.21"
+    kotlin("plugin.spring") version "1.8.10"
     kotlin("kapt") version "1.6.21"
 }
 
